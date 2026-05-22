@@ -133,4 +133,4 @@ else:
 
 
 <h2>Result:</h2>
-<p> Thus a Cryptarithmetic Problem was solved using Python successfully</p>
+<p> Thus a Cryptarithmetic Problem was solved using Python successfully.</p>
